@@ -1,0 +1,123 @@
+{
+  "scene": {
+    "entity_count": 4,
+    "entities": {
+      "entity_0": {
+        "Transform2D": {
+          "x": 467.0,
+          "y": 342.0,
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0
+        },
+        "SpriteComponent": {
+          "render_layer": 0,
+          "visible": true,
+          "width": 934.0,
+          "height": 684.0,
+          "color_r": 1.0,
+          "color_g": 1.0,
+          "color_b": 1.0,
+          "color_a": 1.0,
+          "uv_offset_x": 0.0,
+          "uv_offset_y": 0.0,
+          "uv_size_x": 1.0,
+          "uv_size_y": 1.0,
+          "sprite_texture_path": "../../Sandbox/assets/textures/background.jpg",
+          "direct_texture_path": ""
+        },
+        "Tag": {
+          "name": "Background",
+          "group": "editor_generated"
+        }
+      },
+      "entity_1": {
+        "Transform2D": {
+          "x": 467.0,
+          "y": 342.0,
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0
+        },
+        "SpriteComponent": {
+          "render_layer": 1,
+          "visible": true,
+          "width": 64.0,
+          "height": 64.0,
+          "color_r": 1.0,
+          "color_g": 1.0,
+          "color_b": 1.0,
+          "color_a": 1.0,
+          "uv_offset_x": 0.0,
+          "uv_offset_y": 0.0,
+          "uv_size_x": 1.0,
+          "uv_size_y": 1.0,
+          "sprite_texture_path": "../../Sandbox/assets/textures/character.png",
+          "direct_texture_path": ""
+        },
+        "Tag": {
+          "name": "Character",
+          "group": "editor_generated"
+        }
+      },
+      "entity_2": {
+        "Transform2D": {
+          "x": 50.0,
+          "y": 50.0,
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0
+        },
+        "SpriteComponent": {
+          "render_layer": 1,
+          "visible": true,
+          "width": 40.0,
+          "height": 40.0,
+          "color_r": 1.0,
+          "color_g": 0.0,
+          "color_b": 0.0,
+          "color_a": 1.0,
+          "uv_offset_x": 0.0,
+          "uv_offset_y": 0.0,
+          "uv_size_x": 1.0,
+          "uv_size_y": 1.0,
+          "sprite_texture_path": "",
+          "direct_texture_path": ""
+        },
+        "Tag": {
+          "name": "Red Quad",
+          "group": "editor_generated"
+        }
+      },
+      "entity_4": {
+        "Transform2D": {
+          "x": 550.0,
+          "y": 634.0,
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0
+        },
+        "SpriteComponent": {
+          "render_layer": 1,
+          "visible": true,
+          "width": 40.0,
+          "height": 40.0,
+          "color_r": 1.0,
+          "color_g": 1.0,
+          "color_b": 0.0,
+          "color_a": 1.0,
+          "uv_offset_x": 0.0,
+          "uv_offset_y": 0.0,
+          "uv_size_x": 1.0,
+          "uv_size_y": 1.0,
+          "sprite_texture_path": "",
+          "direct_texture_path": ""
+        },
+        "Tag": {
+          "name": "Yellow Quad",
+          "group": "editor_generated"
+        }
+      }
+    }
+  }
+}

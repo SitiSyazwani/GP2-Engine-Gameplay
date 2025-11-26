@@ -1,0 +1,143 @@
+{
+  "scene": {
+    "entities": {
+      "entity_0": {
+        "SpriteComponent": {
+          "color_a": 1.0,
+          "color_b": 1.0,
+          "color_g": 1.0,
+          "color_r": 1.0,
+          "height": 768.0,
+          "render_layer": 0,
+          "sprite_texture_path": "../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png",
+          "uv_offset_x": 0.0,
+          "uv_offset_y": 0.0,
+          "uv_size_x": 1.0,
+          "uv_size_y": 1.0,
+          "visible": true,
+          "width": 1024.0
+        },
+        "Tag": {
+          "group": "ui",
+          "name": "MenuBackground"
+        },
+        "Transform2D": {
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0,
+          "x": 512.0,
+          "y": 384.0
+        }
+      },
+      "entity_1": {
+        "Tag": {
+          "group": "ui",
+          "name": "StartButton"
+        },
+        "TextComponent": {
+          "color_a": 1.0,
+          "color_b": 1.0,
+          "color_g": 1.0,
+          "color_r": 1.0,
+          "font_path": "../../Sandbox/assets/fonts/test1.ttf",
+          "font_size": 48,
+          "offset_x": 0.0,
+          "offset_y": 0.0,
+          "render_layer": 10,
+          "scale": 1.2000000476837158,
+          "text": "START",
+          "visible": true
+        },
+        "Transform2D": {
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0,
+          "x": 250.0,
+          "y": 503.74200439453125
+        }
+      },
+      "entity_2": {
+        "Tag": {
+          "group": "ui",
+          "name": "SettingsButton"
+        },
+        "TextComponent": {
+          "color_a": 1.0,
+          "color_b": 1.0,
+          "color_g": 1.0,
+          "color_r": 1.0,
+          "font_path": "../../Sandbox/assets/fonts/test1.ttf",
+          "font_size": 48,
+          "offset_x": 0.0,
+          "offset_y": 0.0,
+          "render_layer": 10,
+          "scale": 1.2000000476837158,
+          "text": "SETTINGS",
+          "visible": true
+        },
+        "Transform2D": {
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0,
+          "x": 250.0,
+          "y": 578.0650024414063
+        }
+      },
+      "entity_3": {
+        "Tag": {
+          "group": "ui",
+          "name": "QuitButton"
+        },
+        "TextComponent": {
+          "color_a": 1.0,
+          "color_b": 1.0,
+          "color_g": 1.0,
+          "color_r": 1.0,
+          "font_path": "../../Sandbox/assets/fonts/test1.ttf",
+          "font_size": 48,
+          "offset_x": 0.0,
+          "offset_y": 0.0,
+          "render_layer": 10,
+          "scale": 1.2000000476837158,
+          "text": "QUIT",
+          "visible": true
+        },
+        "Transform2D": {
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0,
+          "x": 250.0,
+          "y": 652.3870239257813
+        }
+      },
+      "entity_4": {
+        "Tag": {
+          "group": "ui",
+          "name": "TestFontText"
+        },
+        "TextComponent": {
+          "color_a": 1.0,
+          "color_b": 1.0,
+          "color_g": 1.0,
+          "color_r": 0.0,
+          "font_path": "../../Sandbox/assets/fonts/test2.ttf",
+          "font_size": 48,
+          "offset_x": 0.0,
+          "offset_y": 0.0,
+          "render_layer": 10,
+          "scale": 1.0,
+          "text": "OTHER FONT TEST",
+          "visible": true
+        },
+        "Transform2D": {
+          "rotation": 0.0,
+          "scale_x": 1.0,
+          "scale_y": 1.0,
+          "x": 50.0,
+          "y": 400.0
+        }
+      }
+    },
+    "entity_count": 5
+  }
+}

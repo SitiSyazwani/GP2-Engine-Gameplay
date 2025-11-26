@@ -1,0 +1,152 @@
+================================================================================
+                         GP2ENGINE - PROJECT GUIDE
+================================================================================
+
+TABLE OF CONTENTS
+-----------------
+1. System Requirements
+2. Installing CMake
+3. Building the Project
+4. Running the Game
+
+
+================================================================================
+1. SYSTEM REQUIREMENTS
+================================================================================
+
+Before building GP2Engine, ensure your system meets these requirements:
+
+- Operating System: Windows 10/11 (64-bit)
+- Visual Studio 2022 (Community, Professional, or Enterprise)
+- CMake 3.10 or higher
+- Windows SDK 10.0
+- Platform Toolset: v143 (Visual Studio 2022)
+- C++20 compiler support
+
+Required Visual Studio Workloads:
+- Desktop development with C++
+- Windows 10/11 SDK
+
+
+================================================================================
+2. INSTALLING CMAKE
+================================================================================
+
+CMake is required to generate the Visual Studio solution files.
+
+Download CMake Installer
+------------------------------------------------
+1. Visit: https://cmake.org/download/
+2. Download the latest Windows x64 Installer (.msi file)
+3. Run the installer
+4. IMPORTANT: During installation, select "Add CMake to the system PATH"
+   - Choose either "for all users" or "for current user"
+5. Complete the installation
+6. Verify installation:
+   - Open Command Prompt
+   - Type: cmake --version
+   - You should see CMake version information
+
+================================================================================
+3. BUILDING THE PROJECT
+================================================================================
+
+QUICK START (Automated)
+-----------------------
+1. Navigate to the GP2Engine root directory
+2. Double-click run.bat
+3. Wait for CMake to generate the Visual Studio solution
+4. Open build\GP2Engine.sln in Visual Studio 2022
+5. Build the solution (F7 or Ctrl+Shift+B)
+6. Run the Hollows project (F5)
+
+CLEAN BUILD
+-----------
+To clean all generated build files:
+
+1. Double-click clean.bat
+2. Confirm when prompted
+3. The entire build directory will be removed
+
+================================================================================
+4. RUNNING THE GAME
+================================================================================
+
+CONTROLS
+--------
+Movement:
+- W/A/S/D: Move player
+- Left Shift: Sprint
+
+Debug:
+- F1: Toggle debug UI
+- Right Mouse Button: Play test sound
+- ESC: Quit application
+
+Debug UI Features:
+- Performance metrics (FPS, frame time, system profiling)
+- Entity inspector (view/edit entity components)
+- Stress test (spawn entities for performance testing)
+- Collision visualization
+
+STARTUP PROJECT
+---------------
+The "Hollows" project is automatically set as the startup project.
+When you press F5 in Visual Studio, it will build and run Hollows.
+
+================================================================================
+5. RUNNING THE LEVEL EDITOR
+================================================================================
+
+The GP2Engine includes a standalone Level Editor for creating and editing
+game scenes. The Editor is a separate executable from the Hollows game.
+
+OFFLINE METHOD 
+--------------------------------------------
+1. Open build\GP2Engine.sln in Visual Studio 2022
+2. In Solution Explorer, right-click the "Editor" project
+3. Select "Set as Startup Project"
+4. Build and run the project (F5 or Ctrl+F5)
+5. The Editor window will launch with the full editing interface
+
+
+EDITOR FEATURES
+---------------
+Scene Viewport:
+- Visual scene editing canvas
+- Real-time rendering of entities
+- Entity selection by clicking
+- Drag entities to reposition them
+
+Camera Controls:
+- Middle Mouse Button: Pan camera
+- Q Key: Zoom in
+- Z Key: Zoom out
+
+UI Panels:
+- Entity Hierarchy: List and select all scene entities
+- Property Inspector: Edit entity components (Transform, Sprite, Text, Tag)
+- Asset Browser: Browse and drag-drop textures and fonts
+- Console: View log messages and errors
+
+Scene Management:
+- File > New Scene: Create empty scene
+- File > Load Scene: Open existing scene
+- File > Save: Save current scene
+- File > Save As: Save scene with new name
+
+Play Mode:
+- Click Play button in menu bar to test scene
+- Click Stop to return to edit mode
+- Camera and editing controls disabled during play mode
+
+NOTES
+-----
+- Editor saves scenes as JSON files in assets/scenes/
+- Unsaved changes are tracked with yellow asterisk (*)
+- Press ESC to exit the editor
+- All editor keyboard shortcuts are shown in View > Controls panel
+
+================================================================================
+END OF PROJECT GUIDE
+================================================================================

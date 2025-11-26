@@ -1,0 +1,7 @@
+{
+  "texture": "SS_Monster_Side_Horizontal.png",
+  "rows": 1,
+  "columns": 6,
+  "tile_width": 512,
+  "tile_height": 512
+}

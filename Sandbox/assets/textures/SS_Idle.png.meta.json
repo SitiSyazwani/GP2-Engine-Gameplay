@@ -1,0 +1,7 @@
+{
+  "texture": "SS_Idle.png",
+  "rows": 1,
+  "columns": 4,
+  "tile_width": 512,
+  "tile_height": 512
+}

@@ -1,0 +1,2890 @@
+
+2025-09-29 10:39:53.180 [INIT] Logger initialized
+2025-09-29 10:39:53.181 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:39:53.728 [ERROR] Failed to initialize game!
+2025-09-29 10:39:53.729 [SHUTDOWN] Logger shutting down
+
+2025-09-29 10:40:38.001 [INIT] Logger initialized
+2025-09-29 10:40:38.002 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:40:38.591 [INFO] === Starting Game Loop ===
+2025-09-29 10:40:44.824 [INFO] === Game Ended Normally ===
+2025-09-29 10:40:45.140 [SHUTDOWN] Logger shutting down
+
+2025-09-29 10:42:23.427 [INIT] Logger initialized
+2025-09-29 10:42:23.429 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:42:23.939 [INFO] === Starting Game Loop ===
+2025-09-29 10:42:50.729 [INFO] === Game Ended Normally ===
+2025-09-29 10:42:51.043 [SHUTDOWN] Logger shutting down
+
+2025-09-29 10:45:19.148 [INIT] Logger initialized
+2025-09-29 10:45:19.149 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:45:19.617 [INFO] === Starting Game Loop ===
+
+2025-09-29 10:45:31.701 [INIT] Logger initialized
+2025-09-29 10:45:31.702 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:45:32.157 [INFO] === Starting Game Loop ===
+2025-09-29 10:45:38.110 [INFO] === Game Ended Normally ===
+2025-09-29 10:45:38.418 [SHUTDOWN] Logger shutting down
+
+2025-09-29 10:48:51.489 [INIT] Logger initialized
+2025-09-29 10:48:51.490 [INFO] === Initializing Hollows Game ===
+2025-09-29 10:48:51.946 [INFO] === Starting Game Loop ===
+2025-09-29 10:49:53.057 [INFO] === Game Ended Normally ===
+2025-09-29 10:49:53.360 [SHUTDOWN] Logger shutting down
+
+2025-10-02 10:53:23.048 [INIT] Logger initialized
+2025-10-02 10:53:23.049 [INFO] === Initializing Hollows Game ===
+2025-10-02 10:53:23.546 [INFO] === Starting Game Loop ===
+2025-10-02 10:53:38.342 [INFO] === Game Ended Normally ===
+2025-10-02 10:53:38.578 [SHUTDOWN] Logger shutting down
+
+2025-10-02 13:37:16.628 [INIT] Logger initialized
+2025-10-02 13:37:16.629 [INFO] === Initializing Hollows Game ===
+2025-10-02 13:37:17.292 [INFO] === Starting Game Loop ===
+2025-10-02 13:37:19.006 [INFO] === Game Ended Normally ===
+2025-10-02 13:37:19.241 [SHUTDOWN] Logger shutting down
+
+2025-10-02 13:39:15.663 [INIT] Logger initialized
+2025-10-02 13:39:15.664 [INFO] === Initializing Hollows Game ===
+2025-10-02 13:39:16.170 [INFO] === Starting Game Loop ===
+
+2025-10-02 13:48:47.754 [INIT] Logger initialized
+2025-10-02 13:48:47.755 [INFO] === Initializing Hollows Game ===
+2025-10-02 13:48:48.275 [INFO] === Starting Game Loop ===
+2025-10-02 13:49:06.195 [INFO] === Game Ended Normally ===
+2025-10-02 13:49:06.393 [SHUTDOWN] Logger shutting down
+
+2025-10-02 13:49:42.366 [INIT] Logger initialized
+2025-10-02 13:49:42.367 [INFO] === Initializing Hollows Game ===
+2025-10-02 13:49:42.946 [INFO] === Starting Game Loop ===
+2025-10-02 13:49:49.750 [INFO] === Game Ended Normally ===
+2025-10-02 13:49:49.958 [SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[CRASH] Crash simulation for testing
+==================== CRASH LOG ====================
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[CRASH] Game crashed with exception: Crash simulation for testing
+==================== CRASH LOG ====================
+[INFO] ResourceManager: Cleared all resources
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down
+
+[INIT] Logger initialized
+[INFO] === Initializing Hollows Game ===
+[INFO] Initializing engine systems...
+[INFO] Input system initialized
+[INFO] Renderer initialized
+[INFO] ECS initialized
+[INFO] Initializing Audio...
+[INFO] Audio initialized successfully
+[INFO] Engine systems initialized successfully
+[INFO] Application initialized successfully
+[INFO] === Starting Game Loop ===
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: ../../Sandbox/assets/fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/Menus.png
+[INFO] ResourceManager: Loaded texture: textures/Menus.png
+[INFO] ResourceManager: Loaded font: fonts/test1.ttf (48px)
+[INFO] ResourceManager: Loaded font: fonts/test2.ttf (48px)
+[INFO] ResourceManager: Loaded audio: audio_files/test.wav (2D)
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Vertical.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Walk_Up_01.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Idle.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Idle.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Side_Horizontal.png
+[INFO] ResourceManager: Loading texture: ../../Sandbox/assets/textures/SS_Monster_Vertical.png
+[INFO] ResourceManager: Loaded texture: textures/SS_Monster_Vertical.png
+[INFO] === Game Ended Normally ===
+[INFO] Shutting down engine systems...
+[INFO] Audio shutdown complete
+[INFO] ECS cleanup complete
+[INFO] Renderer shutdown complete
+[INFO] Engine systems shutdown complete
+[SHUTDOWN] Logger shutting down

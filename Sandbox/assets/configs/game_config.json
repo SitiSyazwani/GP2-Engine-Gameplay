@@ -1,0 +1,11 @@
+{
+  "window": {
+    "width": 1024,
+    "height": 768
+  },
+  "graphics": {
+    "target_fps": 200,
+    "vsync": false
+  }
+  
+}
